@@ -19,9 +19,9 @@ This project is designed for **beginners** who want to understand:
 
 ---
 
-## 📂 Project Structure
-com.example.counterapp │ ├── ui │ └── main │ ├── MainActivity.kt │ ├── MainViewModel.kt │ ├── MainIntent.kt │ └── MainState.kt │ └── res └── layout └── activity_main.xml
+## 🎯 What happens?
 
+    You click button ➡️ send Intent ➡️ MainViewModel updates Model (state) ➡️ View shows new counter.
 ---
 
 ## 🛠 Tech Stack
